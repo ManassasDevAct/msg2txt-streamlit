@@ -4,5 +4,4 @@ python-dateutil>=2.9.0
 olefile>=0.47
 tzlocal>=5.2
 markdown2>=2.4.13
-xhtml2pdf>=0.2.15
-beautifulsoup4>=4.12.3
+xhtml2pdf>=0.2.17
